@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Tarea
+Queremos que al hacer clic en el botón "Ver proceso" de cualquiera de las posiciones, nos lleve a la vista de detalle de cada posición, denominada "position".
+
+Tu misión en este ejercicio es crear la interfaz "position", una página en la que poder visualizar y gestionar los diferentes candidatos de una posición específica. Para ello debes ceñirte a las especificaciones que tienes en [specifications.mdc](mdc:.cursor/specifications.mdc) y puedes y debes utilizar los recursos disponibles en [endpoints.mdc](mdc:.cursor/endpoints.mdc)
+
+## Entregables
+- Todos los cambios que sean necesarios dentro del directorio `frontend`
+- Un fichero llamado prompts-JGL.md donde tienes que introducir en formato markdown toda la conversación que tengamos para resolver nuestra tarea.
